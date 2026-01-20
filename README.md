@@ -1,4 +1,6 @@
 # Manual_MarvelRivals_ItzTrackz
+
+# HUGE THANK YOU TO THE MANUAL DISCORD AND MANUAL GITHUB 
 An Manual Archipelago for Marvel Rivals.
 You can change the YAML file to your name, but don’t change anything in the YAML. The items randomized are all of the characters, your shift, E, F, keys, and right click. Also, we randomized team-up abilities. (For bonus ability slots, you can choose 1 key to unlock for A hero, not all of them, A hero. Make sure to remember!) 
 
